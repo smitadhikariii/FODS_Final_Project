@@ -1,0 +1,3 @@
+smit,Cricket,Debate,Football
+krish,Football,Table Tennis
+aisvaryam,Football
