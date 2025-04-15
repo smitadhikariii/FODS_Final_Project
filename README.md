@@ -1,1 +1,1 @@
-# FODS_Final_Project
+I suggest you to download the zip file named FODSProject.zip that has everything required to run the code smoothly. It also has the output screenshots, documentation, flowchart and presentation slide. Also to run the code you have to open main.py and run it.
