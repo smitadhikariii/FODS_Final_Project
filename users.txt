@@ -1,0 +1,4 @@
+admin,Admin User,admin@gmail.com,admin
+smit,Smit Raj Adhikari,smit23@gmail.com,student
+krish,Krish Jung Thapa,krish23@gmail.com,student
+aisvaryam,Aisvaryam Katwal,aisvaryam@gmail.com,student
